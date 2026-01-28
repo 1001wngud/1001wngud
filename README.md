@@ -1,7 +1,6 @@
 # 1001wngud
 
 기계공학 학부생 | 포트폴리오 정리
-관심: CFD(OpenFOAM)
 
 ## Projects
 - Rocket Club (2021.06-2022.01, 2023.06-2024.01)
