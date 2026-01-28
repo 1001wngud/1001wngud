@@ -1,16 +1,13 @@
-## Hi there 👋
+# 1001wngud
 
-<!--
-**1001wngud/1001wngud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+기계공학 학부생 | 포트폴리오 정리
+관심: CFD(OpenFOAM)
 
-Here are some ideas to get you started:
+## Projects
+- Rocket Club (2021.06-2022.01, 2023.06-2024.01)
+- Spectroscopy Cytometry (2024.12-2025.06)
+- Raspbot V2 (2025.11-2025.12)
+- CFD / OpenFOAM (2026.01~ 작성중)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: 1001-wngud@naver.com
